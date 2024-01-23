@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning computer science and I am interested in web development.
+- 🌱 I’m currently a final year student studying in Bachelor of Computer Science.
 - 📫 How to reach me: jiajianmmu@gmail.com
 <!--
 **jiajianmmu/jiajianmmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
